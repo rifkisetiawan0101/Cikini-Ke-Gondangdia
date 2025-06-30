@@ -1,7 +1,7 @@
-# 🚆🐾 Cikini to Gondangdia 🐾🚆
+# 🚆🐾 Cikini ke Gondangdia 🐾🚆
 
 ## Overview
-🎮✨ “Cikini to Gondangdia” is a casual game that combines train driving simulation with parallax scrolling visuals. Players are tasked with delivering passengers in the form of cats 🐱 from Cikini Station to Gondangdia Station. With a cheerful feel and dynamic visual effects, this game presents a colorful and fun train driving experience. Each trip awards points that can be used to increase train and station capacity, creating a simple management challenge. 🎮✨
+🎮✨ “Cikini ke Gondangdia” is a casual game that combines train driving simulation with parallax scrolling visuals. Players are tasked with delivering passengers in the form of cats 🐱 from Cikini Station to Gondangdia Station. With a cheerful feel and dynamic visual effects, this game presents a colorful and fun train driving experience. Each trip awards points that can be used to increase train and station capacity, creating a simple management challenge. 🎮✨
 
 ## 🛠️ How To Install
 1. Download and install [Processing](https://processing.org/download/).
