@@ -40,6 +40,25 @@
 - [Minim](http://code.compartmental.net/tools/minim/) (audio library for Processing)
 - Custom graphics and sound assets
 
+## Screenshot
+
+Splash Screen
+
+![Splash Screen](SplashScreen.png)
+
+Environment
+
+![Environment](Environment.png)
+
+Cikini Station
+
+![Cikini Station](CikiniStation.png)
+
+Gondangdia Station
+
+![Gondangdia Station](GondangdiaStation.png)
+
+
 ## License
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
